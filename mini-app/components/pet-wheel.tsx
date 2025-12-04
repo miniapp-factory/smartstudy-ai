@@ -8,8 +8,10 @@ const PET_NAMES = ["Fluffy", "Buddy", "Mittens", "Splash", "Tweet", "Nibbles"];
 
 export default function PetWheel({
   onSpin,
+  mode = "type",
 }: {
   onSpin: (pet: { type: string; name: string }) => void;
+  mode?: "type" | "name";
 }) {
   const [spinning, setSpinning] = useState(false);
 
@@ -17,16 +19,22 @@ export default function PetWheel({
     if (spinning) return;
     setSpinning(true);
     setTimeout(() => {
-      const type = PET_TYPES[Math.floor(Math.random() * PET_TYPES.length)];
-      const name = PET_NAMES[Math.floor(Math.random() * PET_NAMES.length)];
-      onSpin({ type, name });
+      if (mode === "type") {
+        const type = PET_TYPES[Math.floor(Math.random() * PET_TYPES.length)];
+        onSpin({ type, name: "" });
+      } else {
+        const name = PET_NAMES[Math.floor(Math.random() * PET_NAMES.length)];
+        onSpin({ type: "", name });
+      }
       setSpinning(false);
     }, 2000);
   };
 
   return (
     <Button onClick={spin} disabled={spinning}>
-      {spinning ? "Spinning..." : "Spin for a new pet"}
+      {spinning
+        ? "Spinning..."
+        : `Spin for a ${mode === "type" ? "pet" : "name"}`}
     </Button>
   );
 }

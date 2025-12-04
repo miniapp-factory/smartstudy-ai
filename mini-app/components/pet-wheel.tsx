@@ -3,8 +3,8 @@
 import { Button } from "@/components/ui/button";
 import { useState } from "react";
 
-const PET_TYPES = ["cat", "dog", "bunny", "fish", "bird", "hamster"];
-const PET_NAMES = ["Fluffy", "Buddy", "Mittens", "Splash", "Tweet", "Nibbles"];
+const PET_TYPES = ["cat", "dog", "bunny", "dragon", "monkey", "fish", "bird", "lion", "tiger", "elephant"];
+const PET_NAMES = ["Fluffy", "Buddy", "Mittens", "Splash", "Tweet", "Nibbles", "Coco", "Spark", "Luna", "Paws", "Bubbles", "Sunny", "Milo", "Ziggy", "Rex", "Daisy"];
 
 export default function PetWheel({
   onSpin,

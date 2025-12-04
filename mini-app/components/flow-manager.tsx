@@ -12,12 +12,12 @@ export default function FlowManager() {
   const [selectedPet, setSelectedPet] = useState<{ type: string; name: string } | null>(null);
 
   const handleTypeSpin = (pet: { type: string; name: string }) => {
-    setSelectedType(pet.type);
+    setSelectedPet({ type: pet.type, name: "" });
     setStep(2);
   };
 
   const handleNameSpin = (pet: { type: string; name: string }) => {
-    setSelectedName(pet.name);
+    setSelectedPet(prev => prev ? { ...prev, name: pet.name } : null);
     setStep(3);
   };
 

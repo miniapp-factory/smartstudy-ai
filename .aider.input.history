@@ -916,3 +916,89 @@
 # 2025-12-04 12:35:47.194639
 +fix my, Home page,My pets page, Settings page and Store page, also add iamges for my pets
 +
+
+# 2025-12-04 12:45:31.231064
++ReCreate my app into 
++a mini-app titled “Lucky Spin Casino”.
++This is a kid-friendly casino-style virtual reward game with no real gambling.
++Follow these instructions:
++
++START SCREEN:
++– Neon casino style
++– Title: “Lucky Spin Casino”
++– Big wheel icon
++– Button: “START GAME” → Goes to Lobby
++
++LOBBY PAGE:
++Show menu cards for:
++– Lucky Spin Wheel
++– Prize Vault
++– My Coins
++– Unlockables
++
++SPIN WHEEL PAGE:
++– Large spinning wheel with 8 colorful segments (10 coins, 20 coins, 50 coins, 100 coins, Mini Prize, Mystery Box, Lucky Star, Jackpot).
++– Button: “SPIN!”
++– Play spin animation, give random reward, show pop-up, update coin balance.
++– Free spin every 10 seconds.
++
++PRIZE VAULT PAGE:
++Display all collected items with icons and rarity colors.
++
++COINS PAGE:
++Show total coins and simple history list.
++
++UNLOCKABLES PAGE:
++User can spend coins to unlock: Bigger Wheel, Super Spin Mode, Double Reward Chance, Wheel Skins.
++Show success pop-up and update UI instantly.
++
++GAME FLOW:
++Start Screen → Lobby → Spin Wheel → Prize → Back to Lobby → Prize Vault / Coins / Unlockables.
++Prizes must save. Coins must update. Unlockables must stay unlocked.
++
++UI STYLE:
++Bright neon colors, casino theme, cute icons, big rounded buttons, smooth animations, simple layout.
++Let the mini-app generator handle all backend & logic.
+
+# 2025-12-04 12:45:31.232104
++ReCreate my app into 
++a mini-app titled “Lucky Spin Casino”.
++This is a kid-friendly casino-style virtual reward game with no real gambling.
++Follow these instructions:
++
++START SCREEN:
++– Neon casino style
++– Title: “Lucky Spin Casino”
++– Big wheel icon
++– Button: “START GAME” → Goes to Lobby
++
++LOBBY PAGE:
++Show menu cards for:
++– Lucky Spin Wheel
++– Prize Vault
++– My Coins
++– Unlockables
++
++SPIN WHEEL PAGE:
++– Large spinning wheel with 8 colorful segments (10 coins, 20 coins, 50 coins, 100 coins, Mini Prize, Mystery Box, Lucky Star, Jackpot).
++– Button: “SPIN!”
++– Play spin animation, give random reward, show pop-up, update coin balance.
++– Free spin every 10 seconds.
++
++PRIZE VAULT PAGE:
++Display all collected items with icons and rarity colors.
++
++COINS PAGE:
++Show total coins and simple history list.
++
++UNLOCKABLES PAGE:
++User can spend coins to unlock: Bigger Wheel, Super Spin Mode, Double Reward Chance, Wheel Skins.
++Show success pop-up and update UI instantly.
++
++GAME FLOW:
++Start Screen → Lobby → Spin Wheel → Prize → Back to Lobby → Prize Vault / Coins / Unlockables.
++Prizes must save. Coins must update. Unlockables must stay unlocked.
++
++UI STYLE:
++Bright neon colors, casino theme, cute icons, big rounded buttons, smooth animations, simple layout.
++Let the mini-app generator handle all backend & logic.

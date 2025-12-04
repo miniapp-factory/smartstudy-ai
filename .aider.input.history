@@ -600,3 +600,311 @@
 +End of prompt.
 +
 +
+
+# 2025-12-04 12:20:20.604907
++Create a fun, colorful, kid-friendly mini app called Digital Pet Adventure.
++Let the system automatically choose the best backend, UI, and UX.
++The app must include images, animations, and complete navigation flow.
++
++📌 APP FLOW (STEP-BY-STEP)
++1. Intro Screen
++
++Show a cute, colorful background with all pet types displayed as artwork:
++
++Cat, Dog, Bunny, Dragon, Monkey, Fish, Bird, Lion, Tiger, Elephant
++
++Center logo: Digital Pet Adventure
++
++Big cute button at the bottom: “Get Started”
++
++When the user taps Get Started, move to the next screen.
++
++2. Pet Selection Wheel
++
++Create a spinning wheel animation that randomly selects a pet.
++Each pet must have a visible cute picture during the wheel spin.
++
++After the pet is chosen, automatically move to the second wheel.
++
++3. Random Pet Name Wheel
++
++Create a second spinning wheel that picks a random cute name.
++Examples: Coco, Fluffy, Spark, Luna, Paws, Bubbles, etc.
++
++After a name is selected, show a button:
++
++“Start Adventure”
++
++4. Game Description Page
++
++Display a clean page explaining how the game works:
++
++GAME RULES:
++
++Take care of your pet to level up.
++
++Actions give EXP:
++
++Feed
++
++Sleep
++
++Play
++
++Clean/Bath
++
++Every 20 levels, the user unlocks a new pet spin.
++
++Pets start at Level 1 and grow visually as they level up.
++
++User also has their own Level that increases with the pet.
++
++If the user collects more than 1 pet, a new button unlocks:
++
++Fight (pet battles)
++
++Pets should show cute animations when interacted with.
++
++Show a button at bottom:
++“Play Now”
++
++5. Home Page
++
++This is the main hub.
++Show the selected pet with animation and a visible image.
++
++Home Page UI Buttons (functional):
++
++Feed (pet gains exp + chewing animation)
++
++Sleep (pet lies down + exp)
++
++Play (bouncing/happy animation)
++
++Bath/Clean (bubble animation)
++
++Jump
++
++Smile
++
++Roll
++
++Run
++
++Walk
++
++Fight (locked until user has at least 2 pets)
++
++Also show:
++
++Pet Level + EXP Bar
++
++User Level + EXP Bar
++
++Add navigation at bottom:
++
++Home
++
++My Pets
++
++Store
++
++6. Store Page
++
++The store includes:
++
++Food
++
++Toys
++
++Accessories
++
++Pet houses
++
++Costumes
++
++Currency: EXP points
++
++7. My Pets Page
++
++Shows all pets collected.
++Each pet shows:
++
++Image
++
++Level
++
++EXP bar
++
++Small animations when tapped
++
++Also include a button:
++“Spin for New Pet (Unlocked every 20 Levels)”
++
++📌 IMPORTANT REQUIREMENTS
++
++The app must display the actual images of the pets.
++
++Must include spinning wheel animations for both pet selection and name selection.
++
++Must show the Home page, NOT loop back to “Spin Again.”
++
++Buttons must be visually large, cute, and tappable.
++
++Make all animations smooth and appealing to kids and teens.
++
++Let the mini-app generator automatically create backend logic and UI components.
+
+# 2025-12-04 12:20:20.605564
++Create a fun, colorful, kid-friendly mini app called Digital Pet Adventure.
++Let the system automatically choose the best backend, UI, and UX.
++The app must include images, animations, and complete navigation flow.
++
++📌 APP FLOW (STEP-BY-STEP)
++1. Intro Screen
++
++Show a cute, colorful background with all pet types displayed as artwork:
++
++Cat, Dog, Bunny, Dragon, Monkey, Fish, Bird, Lion, Tiger, Elephant
++
++Center logo: Digital Pet Adventure
++
++Big cute button at the bottom: “Get Started”
++
++When the user taps Get Started, move to the next screen.
++
++2. Pet Selection Wheel
++
++Create a spinning wheel animation that randomly selects a pet.
++Each pet must have a visible cute picture during the wheel spin.
++
++After the pet is chosen, automatically move to the second wheel.
++
++3. Random Pet Name Wheel
++
++Create a second spinning wheel that picks a random cute name.
++Examples: Coco, Fluffy, Spark, Luna, Paws, Bubbles, etc.
++
++After a name is selected, show a button:
++
++“Start Adventure”
++
++4. Game Description Page
++
++Display a clean page explaining how the game works:
++
++GAME RULES:
++
++Take care of your pet to level up.
++
++Actions give EXP:
++
++Feed
++
++Sleep
++
++Play
++
++Clean/Bath
++
++Every 20 levels, the user unlocks a new pet spin.
++
++Pets start at Level 1 and grow visually as they level up.
++
++User also has their own Level that increases with the pet.
++
++If the user collects more than 1 pet, a new button unlocks:
++
++Fight (pet battles)
++
++Pets should show cute animations when interacted with.
++
++Show a button at bottom:
++“Play Now”
++
++5. Home Page
++
++This is the main hub.
++Show the selected pet with animation and a visible image.
++
++Home Page UI Buttons (functional):
++
++Feed (pet gains exp + chewing animation)
++
++Sleep (pet lies down + exp)
++
++Play (bouncing/happy animation)
++
++Bath/Clean (bubble animation)
++
++Jump
++
++Smile
++
++Roll
++
++Run
++
++Walk
++
++Fight (locked until user has at least 2 pets)
++
++Also show:
++
++Pet Level + EXP Bar
++
++User Level + EXP Bar
++
++Add navigation at bottom:
++
++Home
++
++My Pets
++
++Store
++
++6. Store Page
++
++The store includes:
++
++Food
++
++Toys
++
++Accessories
++
++Pet houses
++
++Costumes
++
++Currency: EXP points
++
++7. My Pets Page
++
++Shows all pets collected.
++Each pet shows:
++
++Image
++
++Level
++
++EXP bar
++
++Small animations when tapped
++
++Also include a button:
++“Spin for New Pet (Unlocked every 20 Levels)”
++
++📌 IMPORTANT REQUIREMENTS
++
++The app must display the actual images of the pets.
++
++Must include spinning wheel animations for both pet selection and name selection.
++
++Must show the Home page, NOT loop back to “Spin Again.”
++
++Buttons must be visually large, cute, and tappable.
++
++Make all animations smooth and appealing to kids and teens.
++
++Let the mini-app generator automatically create backend logic and UI components.

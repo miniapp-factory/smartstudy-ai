@@ -30,3 +30,301 @@
 
 # 2025-12-03 07:42:18.151779
 +I want you to build a digital pet apps, where the user will raise the pet, the player get random pet from the spinning wheel, they will raise it until it will gain level, every 20 level it will unlock another spinning wheel to get a new pet, make a 6 pet in total random, randam name also, i want this apps UI/UX friendly, enjoyable and fun to play and cute interface, for kids and teen
+
+# 2025-12-04 11:54:33.538676
++ReCreate my app and make it a fun and interactive Digital Pet game designed for kids, teens, and casual players.
++The app should be cute, colorful, simple, and focused on fun interactions.
++
++✨ APP FLOW & FEATURES (Mini-App generator will handle the backend logic automatically)
++1️⃣ Opening Screen
++
++Show a logo of "Digital Pet".
++
++Background should display cute pet images:
++
++Cat
++
++Dog
++
++Bunny
++
++Baby Dragon
++
++Monkey
++
++Fish
++
++Bird
++
++Lion
++
++Tiger
++
++Elephant
++
++Add a big, visible, cute “Get Started” button at the bottom.
++
++2️⃣ Pet Selection – Spinning Wheel
++
++When the user clicks Get Started, go to the next page:
++
++Show a spinning wheel animation.
++
++The wheel selects ONE RANDOM PET from the list.
++
++After the pet is chosen, automatically move to the next spinning wheel.
++
++3️⃣ Random Name Selection – Spinning Wheel
++
++Second spinning wheel appears:
++
++Randomly generate a cute pet name (example: Fluffy, Spark, Momo, Luna, Paws, Coco, Yuki, etc.)
++
++After selecting the random name, show a Start button.
++
++4️⃣ About Page
++
++When the user clicks Start, go to the About the Game page:
++
++Show these game details clearly:
++
++GAME DETAILS:
++
++Your goal is to level up your pet and yourself.
++
++Make your pet Sleep, Feed, Play, Bath/Clean to gain EXP.
++
++Level is unlimited.
++
++Every 20 levels, a new spinning wheel unlocks so the user can adopt another pet.
++
++New pets always start at Level 1.
++
++Pets visually grow each time they level up.
++
++Player EXP and Pet EXP increase whenever the player does actions such as:
++
++Feed
++
++Sleep
++
++Play
++
++Bath
++
++Clean
++
++Also show the manual actions the user can trigger:
++
++Jump
++
++Smile
++
++Roll
++
++Run
++
++Walk
++
++Plus:
++
++Fight button (only unlocked if the user owns more than 1 pet).
++
++Add a Play button at the bottom.
++
++5️⃣ Home Page (Main Game Screen)
++
++When Play is clicked, open the main game area:
++
++Home Page Includes:
++🛒 Store
++
++User can buy items for pets
++
++User can buy a house for pets
++
++Currency or cost is based on the user EXP
++
++🐾 Pet Actions
++
++Sleep
++
++Feed
++
++Play
++
++Bath
++
++Clean
++(Each gives EXP to both player and pet.)
++
++🕹 Manual Actions
++
++Jump
++
++Smile
++
++Roll
++
++Run
++
++Walk
++
++⚔ Fight Mode
++
++Visible only if the player owns 2 or more pets.
++
++🌟 Leveling System
++
++Unlimited levels
++
++Every 20 player levels → unlock new pet spinning wheel
+
+# 2025-12-04 11:54:33.539671
++ReCreate my app and make it a fun and interactive Digital Pet game designed for kids, teens, and casual players.
++The app should be cute, colorful, simple, and focused on fun interactions.
++
++✨ APP FLOW & FEATURES (Mini-App generator will handle the backend logic automatically)
++1️⃣ Opening Screen
++
++Show a logo of "Digital Pet".
++
++Background should display cute pet images:
++
++Cat
++
++Dog
++
++Bunny
++
++Baby Dragon
++
++Monkey
++
++Fish
++
++Bird
++
++Lion
++
++Tiger
++
++Elephant
++
++Add a big, visible, cute “Get Started” button at the bottom.
++
++2️⃣ Pet Selection – Spinning Wheel
++
++When the user clicks Get Started, go to the next page:
++
++Show a spinning wheel animation.
++
++The wheel selects ONE RANDOM PET from the list.
++
++After the pet is chosen, automatically move to the next spinning wheel.
++
++3️⃣ Random Name Selection – Spinning Wheel
++
++Second spinning wheel appears:
++
++Randomly generate a cute pet name (example: Fluffy, Spark, Momo, Luna, Paws, Coco, Yuki, etc.)
++
++After selecting the random name, show a Start button.
++
++4️⃣ About Page
++
++When the user clicks Start, go to the About the Game page:
++
++Show these game details clearly:
++
++GAME DETAILS:
++
++Your goal is to level up your pet and yourself.
++
++Make your pet Sleep, Feed, Play, Bath/Clean to gain EXP.
++
++Level is unlimited.
++
++Every 20 levels, a new spinning wheel unlocks so the user can adopt another pet.
++
++New pets always start at Level 1.
++
++Pets visually grow each time they level up.
++
++Player EXP and Pet EXP increase whenever the player does actions such as:
++
++Feed
++
++Sleep
++
++Play
++
++Bath
++
++Clean
++
++Also show the manual actions the user can trigger:
++
++Jump
++
++Smile
++
++Roll
++
++Run
++
++Walk
++
++Plus:
++
++Fight button (only unlocked if the user owns more than 1 pet).
++
++Add a Play button at the bottom.
++
++5️⃣ Home Page (Main Game Screen)
++
++When Play is clicked, open the main game area:
++
++Home Page Includes:
++🛒 Store
++
++User can buy items for pets
++
++User can buy a house for pets
++
++Currency or cost is based on the user EXP
++
++🐾 Pet Actions
++
++Sleep
++
++Feed
++
++Play
++
++Bath
++
++Clean
++(Each gives EXP to both player and pet.)
++
++🕹 Manual Actions
++
++Jump
++
++Smile
++
++Roll
++
++Run
++
++Walk
++
++⚔ Fight Mode
++
++Visible only if the player owns 2 or more pets.
++
++🌟 Leveling System
++
++Unlimited levels
++
++Every 20 player levels → unlock new pet spinning wheel
